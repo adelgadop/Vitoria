@@ -12,7 +12,7 @@ Avaliar a poluição do ar com a simulação da qualidade do ar com os modelos W
 - [ ] Rodar CMAQ para Vitória e avaliar as simulações das concentrações dos poluentes com as observações disponíveis. Considerar que nem todas as estações amostram poluentes que representam espacialmente a escala espacial do modelo, podemos ter erros de representação conforme com Brasseur et al. (2017).
 
 ### Metodología do GitHub
-Em `Issues` você pode escrever dúvidas e a gente pode responder. Em `Wiki` podemos escrever detalhes que não são relevantes mais importantes como baixar dados, instalar programas.
+Em `Issues` você pode escrever dúvidas e a gente pode responder. Em `Wiki` podemos escrever detalhes que não são relevantes mais importantes como baixar dados, instalar programas. Se vc deseja salvar seu `access token` e usuário, escrever `git config --global credential.helper store`, com isso somente vai escrever uma vez o usuário e senha, ja não será necessário depois.
 
   1. Criar branch para mudanças locais e trabalhar nele.  
      - `git checkout <branch name>`
