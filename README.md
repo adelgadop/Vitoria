@@ -5,9 +5,10 @@ A Região Metropolitana de Vitória tem diferentes fontes de emissão onde é im
 Avaliar a poluição do ar com a simulação da qualidade do ar com os modelos WRF-SMOKE-CMAQ.
 
 ## To do list
-- [ ] Rodar WRF-ARW 4.2.1 ou 3.9.1 para Vitória com dois dominios centrado no aeroporto de Vitória e avaliar as simulações meteorológicas com as observações: 
+- [ ] Rodar WRF-ARW 4.4.1 para Vitória com dois dominios centrado no aeroporto de Vitória e avaliar as simulações meteorológicas com as observações: 
 > Domínio 01: 9 km x 9 km, pontos de grade horizontal 110 x 110. Vertical 36 (mínimo 32 para [FNL GFS 0.25, ds.083.3](https://rda.ucar.edu/datasets/ds083.3/)). 
 > Domínio 02: 3 km x 3 km, pontos de grade horizontal 110 x 110.
+> Periodo: 1 - 20 setembro 2015.
 - [ ] Gerar arquivos de emissões com o modelo [SMOKE](https://www.cmascenter.org/smoke/)
 - [ ] Rodar CMAQ para Vitória e avaliar as simulações das concentrações dos poluentes com as observações disponíveis. Considerar que nem todas as estações amostram poluentes que representam espacialmente a escala espacial do modelo, podemos ter erros de representação conforme com Brasseur et al. (2017).
 
