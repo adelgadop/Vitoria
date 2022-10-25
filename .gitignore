@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# WRF-Chem
+met_em/
+WRF/
+
 # Distribution / packaging
 .Python
 build/
