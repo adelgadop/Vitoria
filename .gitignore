@@ -8,7 +8,8 @@ __pycache__/
 
 # WRF-Chem
 met_em/
-WRF/
+WRF3/
+data/
 
 # Distribution / packaging
 .Python
