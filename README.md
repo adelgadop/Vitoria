@@ -9,7 +9,7 @@ Avaliar a poluição do ar com a simulação da qualidade do ar com os modelos W
 > Domínio 01: 9 km x 9 km, pontos de grade horizontal 110 x 110. Vertical 36 (mínimo 32 para [FNL GFS 0.25, ds.083.3](https://rda.ucar.edu/datasets/ds083.3/)).
 > Domínio 02: 3 km x 3 km, pontos de grade horizontal 112 x 112.
 - [x] Instalar o I/O API e SMOKE com testes do caso.
-- [ ] Instalar o CMAQ e fazer do caso.
+- [x] Instalar o CMAQ e fazer do caso.
 - [ ] Gerar arquivos de emissões com o modelo [SMOKE](https://www.cmascenter.org/smoke/) para o caso de Vitória.
 - [ ] Rodar CMAQ para Vitória e avaliar as simulações das concentrações dos poluentes com as observações disponíveis. Considerar que nem todas as estações amostram poluentes que representam espacialmente a escala espacial do modelo, podemos ter erros de representação conforme com Brasseur et al. (2017).
 
